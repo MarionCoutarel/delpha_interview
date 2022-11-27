@@ -1,0 +1,7 @@
+firm,address,website,revenue,N employee,social media
+Microsoft,"One Microsoft Way ,Redmond,98052,United States of America",https://www.microsoft.com/,198270000000,181000,"['https://twitter.com/microsoft', 'https://www.linkedin.com/company/microsoft', 'https://www.instagram.com/microsoft', 'https://www.facebook.com/microsoft']"
+Salesforce,"415 Mission Street, San Francisco,CA",https://www.salesforce.com,21250000000.0,35000,"['https://twitter.com/salesforce', 'https://www.linkedin.com/company/salesforce', 'https://www.instagram.com/salesforce', 'https://www.facebook.com/5634829153']"
+Bouygues Construction,"Challenger , Guyancourt ,Saint-Quentin-en-Yvelines, France",bouygues-construction.com,12300000000.0,52800,
+BNP Parisbas,"3 rue d'Antin ,Paris,75002",https://www.bnpparibas.fr/,44385600000.0,192000,"['https://twitter.com/bnpparibas', 'https://www.linkedin.com/company/bnp-paribas', 'https://www.instagram.com/bnpparibas', 'https://www.facebook.com/mabanque.bnpparibas']"
+HSBC,"8 Canada Square,London",https://www.hsbc.com/,44385600000.0,228000,"['https://twitter.com/hsbc', 'https://www.linkedin.com/company/hsbc', 'https://www.instagram.com/hsbc', 'https://www.facebook.com/hsbc']"
+Dataiku,New York,http://www.dataiku.com/,,1200,['https://twitter.com/dataiku']

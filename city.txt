@@ -1,0 +1,7 @@
+Ville,latitude,longitude
+Redmond,47.673988,-122.121513
+San Francisco,37.773972,-122.431297
+Guyancourt,48.762895,2.075323
+Paris,48.866667,2.333333
+London,51.509865,-0.118092
+New York,40.730610,-73.935242
