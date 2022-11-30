@@ -46,3 +46,4 @@ I choose to do the scrapping on wikidata.org and wikipedia.org.
 I used Selenium package.
 
 I realised a dashboard on tableau public : https://public.tableau.com/app/profile/marion.coutarel/viz/delpha/Tableaudebord1#guest=n&2
+![dashboard image](dashboardDelpha.png)
